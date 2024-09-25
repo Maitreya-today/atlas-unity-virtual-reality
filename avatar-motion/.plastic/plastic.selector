@@ -1,0 +1,4 @@
+repository "avatar-motion@ClintIsCrazy@cloud"
+  path "/"
+    br "/main"
+    co "/main"
